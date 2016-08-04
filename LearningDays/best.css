@@ -1,0 +1,32 @@
+﻿#BOLDD {font-weight:bolder; color:black; background-color:#c71ecc;
+    }
+    .somethingSpcl {color:#0f094a; font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    #logo {border:25px solid red
+            top:25px;
+           left:25px; }
+    p:first-letter {font-weight:700;
+                    font-size:x-large;
+                    color:black;
+                        }
+p {color:black;}
+h1 {color:#333399;  font-family:Segoe Script; text-align:center;}
+h2 {color:#006633;      font-family:Verdana; line-height:150%;}
+h3 {font-family:Microsoft Yi Baiti;  color:#33cccc;}
+h4 {color:#993300; font-family:Comic Sans MS; margin:5px;}
+a:link {color:#cdbdba;  text-decoration:none;	}
+a:visited; {color:green; background-color:yellow;}
+a:hover {  background-color:#183a7f; color:#69269e; text-decoration:underline;	font-weight:bold;   	}
+a:active {background-color:#c890c0;;}
+table {border:3px solid blue ;}
+tr {background-color:#ff006e;}
+td {  border:3px dashed red;	}
+
+body { background-color:rgba(55, 132, 149, 0.42);
+	background-repeat:repeat-y;
+		}
+ol { padding:20px;	border-color:red;	border-top-style:dashed;	border-top-width:5px;	border-bottom-style:dashed;	border-bottom-color:yellow;	
+
+	}
+    span {
+    color:#280404; font-family:'Microsoft Tai Le';}
